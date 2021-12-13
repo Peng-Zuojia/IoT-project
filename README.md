@@ -4,7 +4,8 @@
 
 **Platform**: Mindstorms IDE
 
-
+#### The robot in operation 
+![](./robot-in-operation.jpg)
 
 The python file realizes the measurements of the color and length of the objects. 
 
